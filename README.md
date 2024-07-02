@@ -117,6 +117,12 @@ The pivot table below was created to analyze and summarize the Reservation Statu
   - This insights provide a clear understanding of the outcomes of reservations and can be useful for addressing issues like no-shows and optimizing overall reservation processes.
 
 
+## Rate Type Comparison :
+
+#### Task
+    1) Compare the average room rates for weekday and weekend stays (‘Rate Type’ column).
+    2)  Determine if there is a significant difference in rates between weekdays and weekends.
+
     
 
 
