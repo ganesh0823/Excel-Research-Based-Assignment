@@ -123,6 +123,53 @@ The pivot table below was created to analyze and summarize the Reservation Statu
     1) Compare the average room rates for weekday and weekend stays (‘Rate Type’ column).
     2)  Determine if there is a significant difference in rates between weekdays and weekends.
 
+Using pivot table to analyze the rate type comparison 
+  - This analysis looks into average room rates for weekday and weekend stays
+  - The t-test was performed to determine if there is a statistically significant difference rates for weekdays and weekends.
+       - T-test excel formula : T.Test(A2:A25001,A25002:A50000,2,2) 
+
+#### Statistical Analysis:
+
+  - t-Test Result (p-value): **0.761394**
+   
+       1) Significance Level: Typically, a significance level (alpha) of 0.05 is used.
+       2) Comparison: The p-value (0.761394) is much greater than the significance level (0.05).
+
+  
+|             |
+| ----------- |
+| ![H41](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/c54645ba-0ba9-4794-86a5-ed78b25b2763) |
+
+### Conclusion:
+  1) Result: Since the p-value is greater than 0.05, we fail to reject the null hypothesis. This means there is not enough statistical evidence to suggest a significant difference between the average room rates for weekdays and weekends.   
+ 2) Final Summary: The analysis indicates that there is no statistically significant difference between the room rates for weekday and weekend stays. The average rates for both periods are similar, and the t-test confirms that any observed difference is likely due to random variation rather than a true difference in rates.
+
+
+## Property Performance:
+
+#### Task:
+    1) Analyze the performance of different properties (‘Property’ column).
+    2) Identify the property with the highest average room rate and the one with the most reservations.
+
+ using Pivot table.
+  - calculate the average room rate for each property and,
+  - count the number of reservations for each property.
+
+
+|             |                                                                                                                     
+| ----------- |                                                                                                                     
+| ![H41](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/c54645ba-0ba9-4794-86a5-ed78b25b2763) |      
+
+
+### Conclusion:
+   - Based on the analysis, "The Sankey" has the highest average room rate with $184.84 indicating it may be positioned as a premium property. "The Sankey" also has the most reservations counts with 27400, suggesting it is the most popular among customers. This information can help in strategic decision-making for pricing and marketing efforts to optimize revenue and occupancy rates.
+
+    
+
+
+
+
+
     
 
 
