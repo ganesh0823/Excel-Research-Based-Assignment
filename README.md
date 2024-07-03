@@ -155,14 +155,14 @@ Using pivot table to analyze the rate type comparison
   - calculate the average room rate for each property and,
   - count the number of reservations for each property.
 
-
-|             |                                                                                                                     
-| ----------- |                                                                                                                     
-| ![H41](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/c54645ba-0ba9-4794-86a5-ed78b25b2763) |      
-
+|             |
+| ----------- |
+| ![H53](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/4f4844a5-04af-42c6-bc65-28c7dd02138a) |
+    
 
 ### Conclusion:
    - Based on the analysis, "The Sankey" has the highest average room rate with $184.84 indicating it may be positioned as a premium property. "The Sankey" also has the most reservations counts with 27400, suggesting it is the most popular among customers. This information can help in strategic decision-making for pricing and marketing efforts to optimize revenue and occupancy rates.
+
 
     
 
