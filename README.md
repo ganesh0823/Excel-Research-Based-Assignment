@@ -163,6 +163,51 @@ Using pivot table to analyze the rate type comparison
 ### Conclusion:
    - Based on the analysis, "The Sankey" has the highest average room rate with $184.84 indicating it may be positioned as a premium property. "The Sankey" also has the most reservations counts with 27400, suggesting it is the most popular among customers. This information can help in strategic decision-making for pricing and marketing efforts to optimize revenue and occupancy rates.
 
+## Advanced Booking Analysis :
+
+#### Task : 
+    1) Investigate the impact of advanced booking (‘Advanced Booking’ column) on reservation completion.
+    2) Compare completion rates for reservations with and without special requests.
+
+We used a pivot table to illustrate the advance booking distribution, as shown here.
+
+  - using this formula for completion rate
+    
+       1) Advance Booking (Yes) : =Completed / (Completed+No-Show+Extended+Reduced)
+       2) Regular Booking (No) : =Completed / (Completed+No-Show+Extended+Reduced)
+
+|             |
+| ----------- |
+| ![H56](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/07c45c59-e656-4ff6-b909-87d6e6e20512) |
+
+
+### Conclusion : 
+
+  - Advanced bookings have a slightly higher completion rate compared to regular bookings, with a difference of **0.74%.**
+  - The higher completion rate for advanced bookings suggests that customers who book in advance are slightly more likely to complete their reservations compared to those who book closer to the reservation date.
+
+
+## Special Requests Impact :
+
+  #### Task : 
+        1) Analyze the impact of special requests (‘Special Requests Flag’ column) on reservation completion.
+        2) Compare completion rates for reservations with and without special requests.
+
+  With the help of pivot table  
+
+  - same as the above task here we calculate count of reservation status on Special request.
+  - for completion rate used above formula for reservations with and without special requests.
+  
+
+|             |
+| ----------- |
+| ![H57](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/7f8221d2-3191-4f57-9648-cd04e59563ce) |
+
+
+  
+
+   
+
 
     
 
