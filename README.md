@@ -1,16 +1,17 @@
 # Hotel Reservation Data Analysis Using Excel
 
-## Table of Contents :
-  - [Data Exploration]
-  - [Descriptive Statistics]
-  - [Room Type Analysis]
-  - [Booking Channel Insights]
-  - [Reservation Status Analysis]
-  - [Rate Type Comparison]
-  - [Property Perfomance]
-  - [Advance Booking Analysis]
-  - [Special Requests Impact]
-  - [Conclusion]
+## Project Overview : 
+   In this project, we aim to analyze hotel reservation data to uncover patterns and perform various data analysis tasks to extract meaningful insights from the data.
+
+
+## Methodology:
+   Using Excel, we will perform data cleaning, visualization, and analysis to extract meaningful insights from the dataset. Key steps will include:
+
+- Data Cleaning: Address missing values, correct data types, and standardize formats for consistency.
+- Data Visualization: Create charts and graphs to visualize trends and patterns in the data.
+- Descriptive Analysis: Calculate summary statistics to understand the distribution and central tendencies of various variables.
+- Comparative Analysis: Compare completion rates between different groups (e.g., advanced bookings vs. regular bookings, reservations with vs. without special requests).
+
 
 
  ## Data Exploration :
@@ -201,8 +202,13 @@ We used a pivot table to illustrate the advance booking distribution, as shown h
 
 |             |
 | ----------- |
-| ![H57](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/7f8221d2-3191-4f57-9648-cd04e59563ce) |
+| ![H58](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/1be492f7-5d8d-49ba-aee4-6d5bb52e1633) |
 
+
+### Conclusion : 
+
+  - The slight difference in completion rates suggests that accommodating special requests does not significantly influence the likelihood of reservation completion.
+  - This finding indicates that handling special requests should not be a major concern regarding the overall completion rate of reservations.
 
   
 
