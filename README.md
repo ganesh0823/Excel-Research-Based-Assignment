@@ -70,7 +70,7 @@
    
 |             |
 | ----------- |
-| ![Screenshot (37)](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/af5b9abb-31fa-456e-b459-98bd7824fe94) |
+| ![G1](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/14440471-1378-4df0-b7f2-07ffa7864673) |
 
   1) Mean (Average) Room Rate: This provides an overall measure of the central tendency of the room rates in the dataset.
   2) Median Room Rate: This measure is less affected by outliers and skewed data than the mean.
@@ -86,7 +86,7 @@
 For Room Type Analysis here we have used of pivot table as show below : 
 |             |
 | ----------- |
-| ![H11](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/40dc428b-1a91-4430-aaeb-0bcdb712aa44) |
+| ![G2](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/101383be-6489-429b-b9e8-1c5028777f35) |
   
  - To determine the popularity of each room type, we counted the number of reservations for each type.
  - This helps in identifying the most and least popular room types based on customer preferences.
@@ -107,7 +107,7 @@ With the help of pivot table we analyzed booking channel column.
 
 |             |
 | ----------- |
-| ![H21](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/8be00fed-a04d-4d35-997a-e25ca51ce631) |
+| ![G3](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/4f8f7b5b-2803-4e53-af73-5068e0108756) |
 
 - Here we determined the effectiveness of each booking channel by calculating the no. of completed reservations for each channel.
 - And analyzed the distribution to understand the proportion of reservations made through each booking channel.
@@ -132,7 +132,7 @@ The pivot table below was created to analyze and summarize the Reservation Statu
  
 |             |
 | ----------- |
-| ![H31](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/c30f285b-2035-4660-9186-fc41c9869b07) |
+| ![G4](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/ece449cf-e403-4b2a-8240-f137cffc9327) |
 
 ### Conclusion : 
 - The majority of reservations, approximately 90.07%, are successfully completed, indicating a high level of reservation fulfillment.
@@ -151,7 +151,7 @@ Using pivot table to analyze the rate type comparison
   
 |             |
 | ----------- |
-| ![H41](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/c54645ba-0ba9-4794-86a5-ed78b25b2763) |
+| ![G6](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/d1677c1e-e91d-4810-9cc8-6837f3e46db4) |
 
 - This analysis looks into average room rates for weekday and weekend stays
   - The t-test was performed to determine if there is a statistically significant difference rates for weekdays and weekends.
@@ -181,7 +181,7 @@ Using pivot table to analyze the rate type comparison
 
 |             |
 | ----------- |
-| ![H54](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/f9fd173f-4ea7-4fc9-ab9f-2dace6305e2c) |
+| ![G7](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/f615b415-c79f-4fbd-a362-0381ea987db4) |
     
 
 ### Conclusion:
@@ -193,7 +193,7 @@ Using pivot table to analyze the rate type comparison
 
 #### Task : 
     1) Investigate the impact of advanced booking (‘Advanced Booking’ column) on reservation completion.
-    2) Compare completion rates for reservations with and without special requests.
+    2) Compare the completion rates for advanced bookings and regular bookings.
 
 We used a pivot table to illustrate the advance booking distribution, as shown here.
 
@@ -204,7 +204,7 @@ We used a pivot table to illustrate the advance booking distribution, as shown h
 
 |             |
 | ----------- |
-| ![H56](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/07c45c59-e656-4ff6-b909-87d6e6e20512) |
+| ![G8](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/90fb543f-32af-440f-bb25-2db0bfddbe88) |
 
 
 ### Conclusion : 
@@ -227,7 +227,7 @@ We used a pivot table to illustrate the advance booking distribution, as shown h
 
 |             |
 | ----------- |
-| ![H58](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/1be492f7-5d8d-49ba-aee4-6d5bb52e1633) |
+| ![G9](https://github.com/ganesh0823/Excel-Research-Based-Assignment/assets/164488911/ecf14a41-b30c-403b-b8fc-f84cc6abc888) |
 
 
 ### Conclusion : 
